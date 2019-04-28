@@ -1,6 +1,6 @@
 # Worktime tracker for Sheets
 
-This tool automaticly inserts working hours into a google spreadsheet.
+This tool automatically inserts working hours into a google spreadsheet.
 
 ## Setup
 
